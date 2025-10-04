@@ -13,7 +13,7 @@ Welcome To My First Website
 
 ## 🖥️ Live Demo
 
-[![Live](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://harshadteli.github.io/harshadteliportfolio/)
+[![Live](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://rajnandini1405-collab.github.io/demo/)
 
 ---
 
